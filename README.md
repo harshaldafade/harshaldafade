@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**harshaldafade/harshaldafade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Harshal Dafade 🚀
+**AI/ML | Full-Stack Development | Reinforcement Learning | NLP | Blockchain**
 
-Here are some ideas to get you started:
+### 🌟 About Me
+- MS in **Computer Science** at UMass Lowell
+- Passionate about **Machine Learning, AI Security, and Full-Stack Development**
+- Interested in **Reinforcement Learning, NLP, and Cloud Technologies**
+- Always exploring **open-source contributions and research projects**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect With Me
+📩 **Email:** harshalshrikant_dafade@student.uml.edu  
+💼 **LinkedIn:** [linkedin.com/in/harshal-dafade](https://linkedin.com/in/harshal-dafade)  
+📂 **GitHub:** [github.com/harshaldafade](https://github.com/harshaldafade)
+
