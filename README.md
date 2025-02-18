@@ -10,7 +10,7 @@
 - Always exploring **open-source contributions and research projects**
 
 ### 📫 Connect With Me
-📩 **Email:** harshalshrikant_dafade@student.uml.edu  
+📩 **Email:** harshaldafade2001@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/harshal-dafade](https://linkedin.com/in/harshal-dafade)  
 📂 **GitHub:** [github.com/harshaldafade](https://github.com/harshaldafade)
 
