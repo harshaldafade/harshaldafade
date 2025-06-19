@@ -86,4 +86,4 @@ I'm a passionate engineer driven by curiosity and impact. From deploying machine
 
 ---
 
-> _“If you can be one thing, be KIND.”_
+> _“If you can be one thing, be KIND”_
